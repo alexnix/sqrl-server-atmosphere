@@ -1,0 +1,11 @@
+gradle/
+.gradle/
+gradlew
+gradlew.bat
+build.gradle
+settings.gradle
+/bin/
+target
+release.properties
+pom.xml.releaseBackup
+.project
